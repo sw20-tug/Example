@@ -3,7 +3,7 @@
 This is an example repository.
 
 
-# Additional resources for GitHub
+# Resources for GitHub
 
 - https://guides.github.com/
 - https://help.github.com/en/github/using-git/setting-your-username-in-git
