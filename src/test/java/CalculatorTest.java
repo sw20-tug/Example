@@ -15,4 +15,9 @@ public class CalculatorTest {
     public void testAdd() {
         assertEquals(4, calculator.add(3, 1));
     }
+    
+    @Test
+    public void testAddNegativeNumbers() {
+        assertEquals(-8, calculator.add(-4, -4));
+    }
 }
