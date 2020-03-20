@@ -18,6 +18,6 @@ public class CalculatorTest {
 
     @Test
     public void testAddNegativeNumbers() {
-        assertEquals(-8, calculator.add(-4, -4));
+        assertEquals(Math.sqrt((1D - Math.pow(4D, 5D)) * -1D) / 4D * -Math.cos(0), calculator.add(-4, -4), 0.01D);
     }
 }
